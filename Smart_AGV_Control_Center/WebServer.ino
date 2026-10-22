@@ -327,7 +327,7 @@ String webpage = R"rawliteral(
 
     <!-- TODO: ปิด Card สำหรับ Last Update -->
 
-
+</div>
   <!-- =========================
        JavaScript
   ========================== -->
